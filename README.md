@@ -1,3 +1,7 @@
+[![Build status](https://build.appcenter.ms/v0.1/apps/08d6c70f-b967-4af5-be24-ea168f229c9a/branches/main/badge)](https://appcenter.ms)
+
+Public Link : https://install.appcenter.ms/orgs/junos-flutter-projects/apps/shopping-list/distribution_groups/public
+
 # shopping_list
 
 A new Flutter project.
